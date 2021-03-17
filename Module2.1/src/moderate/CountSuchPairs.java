@@ -1,3 +1,5 @@
+package moderate;
+
 import java.util.Scanner;
 
 public class CountSuchPairs {
