@@ -58,4 +58,5 @@ public class MainActivity extends AppCompatActivity implements ItemClickListener
         Toast.makeText(this, "Animal name is " +article.getName(), Toast.LENGTH_SHORT).show();
 
     }
+//    mintu
 }
